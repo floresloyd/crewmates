@@ -1,0 +1,54 @@
+.background {
+  background-color: #818181;
+}
+
+.crewmate-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+h1 {
+  margin-bottom: 2em;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 800px;
+  gap: 1em;
+}
+
+.input-box {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.color-options {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 2em;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+.color-options ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.color-options li {
+  margin-top: 0.5em;
+}
+
+.btn-space {
+  margin-top: 2em;
+  padding: 0.5em 1em;
+}
