@@ -28,17 +28,27 @@ The following **additional** features are implemented:
 
 - [✔️] Utilized Bootstrap CSS for Dynamic Sizing
 
-## Video Walkthrough
-
-# HOMESCREEN
+# Homescreen
 
 <img src='/public/homescreen.png' title='homescreen' width='' alt='homescreen' />
+
+# Create A crewmate
+
 <img src='/public/create.png' title='create' width='' alt='create' />
+
+# Crewmate Gallery
+
 <img src='/public/gallery.png' title='gallery' width='' alt='gallery' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+## Video Walkthrough
+
+<img src='/public/gif-vid.gif' title='gif' width='' alt='gif' />
+
+Full Video Link : <a href="/public/videowalkthrough.mp4"> Click Here</a>
+
+Convert Io & Microsoft Clipchamp
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -47,11 +57,12 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- It was a learning curve to use the backend
+- Proper utilization of routes and dynamic routes
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Loyd Flores
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
