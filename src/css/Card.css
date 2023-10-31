@@ -1,0 +1,22 @@
+.crewmate-card {
+    border: 1px solid black;
+    width: 200px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .crewmate-image {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: grey;
+    margin-bottom: 10px;
+  }
+  
+  .edit-button {
+    display: block;
+    margin-top: 10px;
+  }
+  
