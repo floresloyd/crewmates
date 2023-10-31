@@ -3,6 +3,7 @@
 /* eslint-disable-next-line react/prop-types */
 
 import "../css/Card.css";
+import { Link } from "react-router-dom";
 
 function Card(props) {
   return (
@@ -17,7 +18,9 @@ function Card(props) {
       <div>
         <strong>Color of Crewmate:</strong> {props.color}
       </div>
-      <button className="edit-button">Edit Crewmate</button>
+      <Link to={`/${props.id}/edit`}>
+        <button className="edit-button">Edit Crewmate</button>{" "}
+      </Link>
     </div>
   );
 }

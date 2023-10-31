@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Create from "./pages/Create";
 import Gallery from "./pages/Gallery";
+import Edit from "./pages/Edit";
 import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
@@ -25,7 +26,7 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/create" element={<Create />} />
                 <Route path="/gallery" element={<Gallery />} />
-                <Route path="/:id/edit" element={<Gallery />} />
+                <Route path="/:id/edit" element={<Edit />} />
               </Routes>
             </div>
           </div>

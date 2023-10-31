@@ -32,6 +32,7 @@ function Gallery() {
         crewmates.map((post, index) => (
           <Card
             key={index}
+            id={crewmates[index].id}
             name={crewmates[index].name}
             speed={crewmates[index].speed}
             color={crewmates[index].color}
