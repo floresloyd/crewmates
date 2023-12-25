@@ -1,6 +1,6 @@
 # Web Development Project 7 - _Crewmates_
 
-Submitted by: **Loyd Floresn**
+Submitted by: **Loyd Flores**
 
 This web app: **Description:
 The Team Builder Web App empowers gaming aficionados and enthusiasts to breathe life into their custom gaming teams. Whether you're reminiscing about your favorite game or brainstorming a new virtual adventure, our app is designed to bring your imagination to the forefront.**
